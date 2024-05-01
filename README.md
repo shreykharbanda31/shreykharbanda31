@@ -1,4 +1,4 @@
-### Hello, I'm Shrey 👋
+### Hello, I'm (Sh)rey 👋
 
 I am currently pursuing a BS in Computer Science along with two Minors in Web Programming and Applications and Mathematics at New York University's School of Engineering - NYU Tandon.
 
