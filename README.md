@@ -23,4 +23,4 @@ I also enjoy
 - some reggaeton
 
 Feel free to reach out to me:
-[LinkedIn](https://www.linkedin.com/in/shrey-kharbanda/) | [Instagram](https://www.instagram.com/shrey_kharbanda/) | [E-mail](mailto:shrey.kharbanda@nyu.edu) 
+[LinkedIn](https://www.linkedin.com/in/shrey-kharbanda/) | [Instagram](https://www.instagram.com/rey_kbd/) | [E-mail](mailto:shrey.kharbanda@nyu.edu) 
