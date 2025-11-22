@@ -5,7 +5,6 @@
 - Minors in
     - Web Programming and Applications
     - Data Science
-    - Math
 
 I love building 
 - mobile applications (iOS/Android)
@@ -13,8 +12,6 @@ I love building
 - front-end web development
 - finance solutions
 - meaningful products
-
-After directing the organization for 2 years, I advise the board at NYU's premier hackathon club, [HackNYU](https://hacknyu.org/). 
 
 I also enjoy 
 - learning new languages
