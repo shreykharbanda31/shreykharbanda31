@@ -1,10 +1,12 @@
 ### Hello, I'm (Sh)rey 👋
 
 - Mobile App Developer at Salesforce
-- NYU Tandon Alum in Computer Science
-- Minors in
-    - Web Programming and Applications
-    - Data Science
+- NYU Tandon Alum
+    - Degree in
+        - Computer Science
+    - Minors in
+        - Web Programming and Applications
+        - Data Science
 
 I love building 
 - mobile applications (iOS/Android)
